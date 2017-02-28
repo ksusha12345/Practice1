@@ -1,3 +1,8 @@
-# Practice1
-Learning how to use the GitHub
-So, I understand how to use the GitHub, but I still need more practice to use it fluently because "practice makes a master". Anyway, the platform is fun to use, and I will use it for my future projects. I have some questions how to upload materials, but I will find it out soon.  
+`1. Why are you interested in programming? What have you done to expose yourself to programming so far?
+2. If you are accepted into our program, where do you see your career in 5 years?
+3. After reading Ada's Vision, Mission and Inclusivity Statement, how will you contribute to Ada's vision for an inclusive and diverse community? http://adadevelopersacademy.org/program
+4. Tell us about a time you made a mistake that you learned a lot from. If you encountered the situation again, what would you do differently?
+My intrest in programming was trigged inconvinently. I was visiting my friend,  and we were discussing ways to start a new career. Her spouse introduced us to ADA. It was a great opportunity for me, so I checked the Jump Start and Code Academy  to find out if it fits my ability. The more I learned, the more fun I had! Programming is absolutely a new language for me, and I love its wide range of creativity! 
+My intrest in programming was was not forced, but casually was a topic that came up during a  dinner. I was visiting my friend,  and we were discussing ways to begin a new career, luckly her spouse introduced us to ADA. I thought it sounded like fun and a great opportunity for me to try something new, so I checked the Jump Start and Code Academy to see if programming fit my personality and learning ability. The more time I spent learning about programming, the more I came to relieze this could be a new serious carrer path. To me, programming is not just a hobby, I am ready to consistantly self-develop and study programming professionaly. I am also ready to have a more modern life full of the latest technology to create a project that could change the world and the common understanding of things. 
+In five years I see myself as a profesional  programer who enjoys working in a large company efficiently and creatively. Part of my carrer would include meeting new people and using teamwork to develop effective solutions.
+Made 
