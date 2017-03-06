@@ -13,7 +13,6 @@ I am considering it is a privilege to be a part of the Ada comminity because of 
 My lesson I learned a while ago is asking for help and advice when I need it. I came to the United States as refugee, so my family and I  needed help to find out the ways to survive. Language barrier, lack of information, and shyness were part of the problem. I lost a lot of time and opportunities by figuring out by myself how to fill out applications  and apply for college. Fortunately, there were many people who helped me to learn that asking is a great way to find help and friends! 
 
 
-
 In order to find an answer, I used Google search to find list of HBCUs established to the Reconstruction Era and during Reconstruction. 
 I selected the HBCUs in 2010 ans 2015 datas, and found the sum of recipients in both categories (Prior to the Reconstruction Era and During the Reconstruction Era), so I got four numbers.
 According to the results, the number of loan recipients prior to the Reconstruction Era 
